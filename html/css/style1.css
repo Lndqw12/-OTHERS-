@@ -1,0 +1,61 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin,cyrillic);
+
+
+
+#footer {
+	position:fixed;
+	width:14%;
+	height:35%;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+	margin-left:-4%;
+	border-radius:1%;
+	background-color:white-space;
+	text-align:left;
+	word-break:break-all;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.telo {
+	position:relative;
+	width:80%;
+	height:100%;
+	top:17%;
+	margin-left: 10%;
+	border-radius:2%;
+	border-style:solid;
+	background-color:white;
+	opacity:0.65;
+	text-align:center;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+}
+.tel{
+	position:relative;
+	width:60%;
+	height:13%;
+	top:30%;
+	margin-left: 20%;
+	border-radius:2%;
+	border-style:solid;
+	background-color:white;
+	opacity:0.65;
+	text-align:center;
+}
+#clock{
+	position:fixed;
+	width:9%;
+	height:5%;
+	border-style:solid-space;
+	top:0%;
+	margin-left: 1%;
+	background-color: whitr;
+	color: white;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+}
